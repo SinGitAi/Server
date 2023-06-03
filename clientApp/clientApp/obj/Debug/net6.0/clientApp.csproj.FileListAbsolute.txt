@@ -1,0 +1,15 @@
+C:\Users\daniilnovoselcev\source\repos\clientApp\clientApp\bin\Debug\net6.0\clientApp.exe
+C:\Users\daniilnovoselcev\source\repos\clientApp\clientApp\bin\Debug\net6.0\clientApp.deps.json
+C:\Users\daniilnovoselcev\source\repos\clientApp\clientApp\bin\Debug\net6.0\clientApp.runtimeconfig.json
+C:\Users\daniilnovoselcev\source\repos\clientApp\clientApp\bin\Debug\net6.0\clientApp.dll
+C:\Users\daniilnovoselcev\source\repos\clientApp\clientApp\bin\Debug\net6.0\clientApp.pdb
+C:\Users\daniilnovoselcev\source\repos\clientApp\clientApp\obj\Debug\net6.0\clientApp.csproj.AssemblyReference.cache
+C:\Users\daniilnovoselcev\source\repos\clientApp\clientApp\obj\Debug\net6.0\clientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniilnovoselcev\source\repos\clientApp\clientApp\obj\Debug\net6.0\clientApp.AssemblyInfoInputs.cache
+C:\Users\daniilnovoselcev\source\repos\clientApp\clientApp\obj\Debug\net6.0\clientApp.AssemblyInfo.cs
+C:\Users\daniilnovoselcev\source\repos\clientApp\clientApp\obj\Debug\net6.0\clientApp.csproj.CoreCompileInputs.cache
+C:\Users\daniilnovoselcev\source\repos\clientApp\clientApp\obj\Debug\net6.0\clientApp.dll
+C:\Users\daniilnovoselcev\source\repos\clientApp\clientApp\obj\Debug\net6.0\refint\clientApp.dll
+C:\Users\daniilnovoselcev\source\repos\clientApp\clientApp\obj\Debug\net6.0\clientApp.pdb
+C:\Users\daniilnovoselcev\source\repos\clientApp\clientApp\obj\Debug\net6.0\clientApp.genruntimeconfig.cache
+C:\Users\daniilnovoselcev\source\repos\clientApp\clientApp\obj\Debug\net6.0\ref\clientApp.dll
